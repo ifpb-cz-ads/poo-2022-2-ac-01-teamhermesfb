@@ -5,7 +5,7 @@
  * @version 05/10/2022
  */
 
-class Atividade6
+class Questao6
 {
     public static void main(String[] args){
         System.out.println("Hermes Feitoza Barros");
