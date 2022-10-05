@@ -7,30 +7,9 @@ poo-2022-2-ac-01-teamhermesfb created by GitHub Classroom
 JDK: É o kit de desenvolvimento, criado para os programadores utilizar várias ferramentas e consigam compilar o código: Java Development Kit,
 que inclui a JRE, onde está localizado as bibliotecas padrões.
 
---------------------------------------------
-3 - 
-class PrimeiroPrograma
-{
-    public static void main(String[] args){
-        System.out.println("Terminei a primeira aula com um programa Java!");
-    }
-}
---------------------------------------------
-
 4 - Automaticamente foi criado um novo arquivo .class no diretório com as mesmas informações do anterior e o programa foi compilado normalmente.
 
 5 - O BlueJ gera um erro de parâmetro vazio, exigindo que o usuário/desenvolvedor informe-o antes.
-
---------------------------------------------
-6 - 
-class PrimeiroPrograma
-{
-    public static void main(String[] args){
-        System.out.println("Hermes Feitoza Barros");
-        System.out.println("Seleção brasileira.");
-    }
-}
---------------------------------------------
 
 7 - O BlueJ não reconhece como um código. Todas as classes e enumerados se tornam imperceptíveis.
 
